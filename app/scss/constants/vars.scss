@@ -1,0 +1,29 @@
+$primary:   #e6ab56;
+$accent:    #383838;
+$default:   #464451;
+$bg:        #F8F8F8;
+$bg-green:  #25D366;
+
+%bg{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+%jost-400 {
+  font-family: "Jost-Regular";
+  font-weight: 400;
+  font-style: normal;
+}
+
+%jost-500 {
+  font-family: "Jost-Medium";
+  font-weight: 500;
+  font-style: normal;
+}
+
+%jost-700 {
+  font-family: "Jost-Bold";
+  font-weight: 700;
+  font-style: normal;
+}
